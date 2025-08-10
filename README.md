@@ -13,25 +13,16 @@ Evaluation – Provides accuracy metrics, confusion matrix, and visual results.
 Installation
 Make sure you have Python 3.8+ installed, then install the required packages:
 
-bash
-Copy
-Edit
 pip install tensorflow numpy pandas opencv-python imagehash matplotlib
 Usage
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/deepfake-vs-real.git
 cd deepfake-vs-real
 Download and prepare your dataset (e.g., Kaggle Deepfake Detection Challenge).
 
 Open the notebook:
 
-bash
-Copy
-Edit
 jupyter notebook DeefakeVsReal_.ipynb
 Run all cells in sequence to preprocess data, train the model, and evaluate results.
 
@@ -46,3 +37,4 @@ Training & validation accuracy/loss graphs
 Confusion matrix for classification performance
 
 Example predictions on test frames
+
