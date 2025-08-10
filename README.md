@@ -1,4 +1,5 @@
 Deepfake vs Real Video Detection
+
 This repository contains a Jupyter Notebook for detecting deepfake videos by combining image hashing and deep learning. It uses a DenseNet201 backbone for feature extraction and classification, enabling the detection of manipulated frames in video datasets.
 
 Features
@@ -37,4 +38,5 @@ Training & validation accuracy/loss graphs
 Confusion matrix for classification performance
 
 Example predictions on test frames
+
 
